@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-InfMApplication<spring-boot-starter-zero>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "ch.zhaw.springboot.InfMApplication",
+            "projectName": "spring-boot-starter-zero",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ProjectXApplication<spring-boot-starter-zero>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "ch.zhaw.springboot.ProjectXApplication",
+            "projectName": "spring-boot-starter-zero",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ProjectXApplication<project-x>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "ch.zhaw.springboot.ProjectXApplication",
+            "projectName": "project-x",
+            "args": ""
+        }
+    ]
+}
